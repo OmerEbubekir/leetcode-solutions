@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\bin\Debug\net8.0\BestTimetoBuyandSellStock.exe
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\bin\Debug\net8.0\BestTimetoBuyandSellStock.deps.json
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\bin\Debug\net8.0\BestTimetoBuyandSellStock.runtimeconfig.json
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\bin\Debug\net8.0\BestTimetoBuyandSellStock.dll
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\bin\Debug\net8.0\BestTimetoBuyandSellStock.pdb
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\BestTimetoBuyandSellStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\BestTimetoBuyandSellStock.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\BestTimetoBuyandSellStock.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\BestTimetoBuyandSellStock.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\BestTimetoBuyandSellStock.dll
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\refint\BestTimetoBuyandSellStock.dll
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\BestTimetoBuyandSellStock.pdb
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\BestTimetoBuyandSellStock.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algoritma\BestTimetoBuyandSellStock\obj\Debug\net8.0\ref\BestTimetoBuyandSellStock.dll
