@@ -1,14 +1,17 @@
 
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems.  
-Each problem is categorized by its difficulty level.
+Welcome to my LeetCode solutions repository!  
+Here, you'll find solutions to a variety of algorithmic problems solved using **C#**.  
 
 ## Structure
 
-- **Easy**: Beginner-level problems.
-- **Medium**: Intermediate-level problems.
-- **Hard**: Advanced-level problems.
+- **Arrays**  
+- **Strings**  
+- **Linked Lists**  
+- **Math**  
+- **Dynamic Programming**  
+- And more!
 
 ## How to Use
 1. Clone this repository.
