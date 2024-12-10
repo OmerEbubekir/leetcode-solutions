@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\bin\Debug\net8.0\ContainsDupLicate.exe
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\bin\Debug\net8.0\ContainsDupLicate.deps.json
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\bin\Debug\net8.0\ContainsDupLicate.runtimeconfig.json
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\bin\Debug\net8.0\ContainsDupLicate.dll
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\bin\Debug\net8.0\ContainsDupLicate.pdb
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\ContainsDupLicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\ContainsDupLicate.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\ContainsDupLicate.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\ContainsDupLicate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\ContainsDupLicate.dll
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\refint\ContainsDupLicate.dll
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\ContainsDupLicate.pdb
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\ContainsDupLicate.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Algoritma\ContainsDupLicate\obj\Debug\net8.0\ref\ContainsDupLicate.dll
