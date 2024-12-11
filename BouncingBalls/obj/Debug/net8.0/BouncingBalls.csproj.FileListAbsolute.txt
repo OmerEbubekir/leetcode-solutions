@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\bin\Debug\net8.0\BouncingBalls.exe
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\bin\Debug\net8.0\BouncingBalls.deps.json
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\bin\Debug\net8.0\BouncingBalls.runtimeconfig.json
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\bin\Debug\net8.0\BouncingBalls.dll
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\bin\Debug\net8.0\BouncingBalls.pdb
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\BouncingBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\BouncingBalls.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\BouncingBalls.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\BouncingBalls.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\BouncingBalls.dll
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\refint\BouncingBalls.dll
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\BouncingBalls.pdb
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\BouncingBalls.genruntimeconfig.cache
+C:\Users\Admin\Desktop\AlgoritmaCodeWars\BouncingBalls\obj\Debug\net8.0\ref\BouncingBalls.dll
