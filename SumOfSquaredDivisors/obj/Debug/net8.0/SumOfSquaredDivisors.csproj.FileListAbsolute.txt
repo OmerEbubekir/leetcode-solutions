@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\SumOfSquaredDivisors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\SumOfSquaredDivisors.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\SumOfSquaredDivisors.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\SumOfSquaredDivisors.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\bin\Debug\net8.0\SumOfSquaredDivisors.exe
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\bin\Debug\net8.0\SumOfSquaredDivisors.deps.json
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\bin\Debug\net8.0\SumOfSquaredDivisors.runtimeconfig.json
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\bin\Debug\net8.0\SumOfSquaredDivisors.dll
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\bin\Debug\net8.0\SumOfSquaredDivisors.pdb
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\SumOfSquaredDivisors.dll
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\refint\SumOfSquaredDivisors.dll
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\SumOfSquaredDivisors.pdb
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\SumOfSquaredDivisors.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Easy\SumOfSquaredDivisors\obj\Debug\net8.0\ref\SumOfSquaredDivisors.dll
