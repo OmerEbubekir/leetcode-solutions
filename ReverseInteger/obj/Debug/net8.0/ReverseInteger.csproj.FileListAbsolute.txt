@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\bin\Debug\net8.0\ReverseInteger.exe
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\bin\Debug\net8.0\ReverseInteger.deps.json
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\bin\Debug\net8.0\ReverseInteger.runtimeconfig.json
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\bin\Debug\net8.0\ReverseInteger.dll
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\bin\Debug\net8.0\ReverseInteger.pdb
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\ReverseInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\ReverseInteger.AssemblyInfo.cs
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\ReverseInteger.dll
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\refint\ReverseInteger.dll
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\ReverseInteger.pdb
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\ReverseInteger.genruntimeconfig.cache
+C:\Users\Admin\Desktop\algoritma sorular\medium\ReverseInteger\obj\Debug\net8.0\ref\ReverseInteger.dll
