@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\bin\Debug\net9.0\plusMinus.exe
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\bin\Debug\net9.0\plusMinus.deps.json
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\bin\Debug\net9.0\plusMinus.runtimeconfig.json
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\bin\Debug\net9.0\plusMinus.dll
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\bin\Debug\net9.0\plusMinus.pdb
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\plusMinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\plusMinus.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\plusMinus.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\plusMinus.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\plusMinus.dll
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\refint\plusMinus.dll
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\plusMinus.pdb
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\plusMinus.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Kod\C# Algoritma soruları\plusMinus\obj\Debug\net9.0\ref\plusMinus.dll
