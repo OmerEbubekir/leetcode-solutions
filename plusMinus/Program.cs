@@ -23,6 +23,7 @@ class Result
 
     public static void plusMinus(List<int> arr)
     {
+        arr.Sort();
         long positive=0;
         long negative=0;
         for (int i = 0; i < arr.Count; i++)
