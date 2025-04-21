@@ -23,8 +23,8 @@ class Result
 
     public static void plusMinus(List<int> arr)
     {
-        int positive=0;
-        int negative=0;
+        long positive=0;
+        long negative=0;
         for (int i = 0; i < arr.Count; i++)
         {
             if (arr[i]>0)
